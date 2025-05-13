@@ -1,0 +1,15 @@
+body {
+	font-family: Sour Gummy;
+	background-color: #f09cab;
+	color: #faf0f1;
+}
+
+.row {display: flex;}
+.column {flex: 33.33%;
+	padding: 5px;
+}
+
+.button {
+	display: flex;
+	justify-content: center;
+}
